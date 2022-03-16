@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @llglassar
-- 👀 I’m interested in 
+- 👀 I’m interested in developing my coding skills and joining the world of tech!
 - 🌱 I’m currently learning JavaScript, Front-End Frameworks...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... llglassar@gmail.com
